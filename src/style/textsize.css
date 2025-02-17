@@ -1,0 +1,101 @@
+@media (min-aspect-ratio: 1.9) {
+	.maincont p {
+		font-size: 1.5vw;
+	}
+}
+@media (max-aspect-ratio: 1.9) and (min-aspect-ratio: 1.8) {
+	.maincont p {
+		font-size: 1.65vw;
+	}
+}
+@media (max-aspect-ratio: 1.8) and (min-aspect-ratio: 1.7) {
+	.maincont p {
+		font-size: 1.7vw;
+	}
+}
+@media (max-aspect-ratio: 1.7) and (min-aspect-ratio: 1.6) {
+	.maincont p {
+		font-size: 1.6vw;
+	}
+}
+@media (max-aspect-ratio: 1.6) and (min-aspect-ratio: 1.5) {
+	.maincont p {
+		font-size: 1.4vw;
+	}
+}
+
+@media (max-aspect-ratio: 1.5) and (min-aspect-ratio: 1.4) {
+	.maincont p {
+		font-size: 1.5vw;
+	}
+}
+@media (max-aspect-ratio: 1.4) and (min-aspect-ratio: 1.3) {
+	.maincont p {
+		font-size: 1.6vw;
+	}
+}
+@media (max-aspect-ratio: 1.3) and (min-aspect-ratio: 1.2) {
+	.maincont p {
+		font-size: 1.7vw;
+	}
+}
+@media (max-aspect-ratio: 1.2) and (min-aspect-ratio: 1.1) {
+	.maincont p {
+		font-size: 1.8vw;
+	}
+}
+@media (max-aspect-ratio: 1.1) and (min-aspect-ratio: 1) {
+	.maincont p {
+		font-size: 1.9vw;
+	}
+}
+@media (max-aspect-ratio: 1) and (min-aspect-ratio: 0.9) {
+	.maincont p {
+		font-size: 1.85vh;
+	}
+}
+@media (max-aspect-ratio: 0.9) {
+	.links h1 {
+		word-wrap: break-all;
+	}
+}
+@media (max-aspect-ratio: 0.9) and (min-aspect-ratio: 0.65) {
+	.links h1 {
+		font-size: 2.2vh;
+	}
+	.maincont p {
+		font-size: 1.65vh;
+	}
+}
+@media (max-aspect-ratio: 0.65) and (min-aspect-ratio: 0.5) {
+	.links h1 {
+		font-size: 2vh;
+	}
+	.maincont p {
+		font-size: 1.4vh;
+	}
+}
+@media (max-aspect-ratio: 0.5) and (min-aspect-ratio: 0.4) {
+	.links h1 {
+		font-size: 2vh;
+	}
+	.maincont p {
+		font-size: 1.4vh;
+	}
+}
+@media (max-aspect-ratio: 0.4) and (min-aspect-ratio: 0.3) {
+	.links h1 {
+		font-size: 1.5vh;
+	}
+	.maincont p {
+		font-size: 1.2vh;
+	}
+}
+@media (max-aspect-ratio: 0.3) {
+	.links h1 {
+		font-size: 1.4vh;
+	}
+	.maincont p {
+		font-size: 1.1vh;
+	}
+}
