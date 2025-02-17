@@ -19,7 +19,7 @@ body {
 	left: 0;
 }
 #back {
-	background-image: url(img/jpg/prev.jpeg);
+	background-image: url(../img/jpg/prev.jpeg);
 	background-repeat: no-repeat;
 	background-size: max(100vh, 100vw);
 	background-position: center;
