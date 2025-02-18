@@ -75,7 +75,7 @@
 		font-size: 1.2vh;
 	}
 }
-@media (max-aspect-ratio: 0.5) and (min-aspect-ratio: 0.4) {
+@media (max-aspect-ratio: 0.5) and (min-aspect-ratio: 0.45) {
 	.links h1 {
 		font-size: 2vh;
 	}
@@ -83,7 +83,15 @@
 		font-size: 1.4vh;
 	}
 }
-@media (max-aspect-ratio: 0.4) and (min-aspect-ratio: 0.3) {
+@media (max-aspect-ratio: 0.4) and (min-aspect-ratio: 0.35) {
+	.links h1 {
+		font-size: 1.5vh;
+	}
+	.maincont p {
+		font-size: 1.3vh;
+	}
+}
+@media (max-aspect-ratio: 0.35) and (min-aspect-ratio: 0.3) {
 	.links h1 {
 		font-size: 1.5vh;
 	}
