@@ -33,7 +33,7 @@ body {
 	height: 100%;
 	padding: 1vh;
 	display: grid;
-	grid-template-rows: 9vh 84vh 2vh;
+	grid-template-rows: 9svh 84svh 2svh;
 	row-gap: 1vh;
 }
 

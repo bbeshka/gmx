@@ -1,57 +1,57 @@
 @media (min-aspect-ratio: 1.9) {
 	.maincont p {
-		font-size: 1.5vw;
+		font-size: 1.5svw;
 	}
 }
 @media (max-aspect-ratio: 1.9) and (min-aspect-ratio: 1.8) {
 	.maincont p {
-		font-size: 1.65vw;
+		font-size: 1.65svw;
 	}
 }
 @media (max-aspect-ratio: 1.8) and (min-aspect-ratio: 1.7) {
 	.maincont p {
-		font-size: 1.7vw;
+		font-size: 1.7svw;
 	}
 }
 @media (max-aspect-ratio: 1.7) and (min-aspect-ratio: 1.6) {
 	.maincont p {
-		font-size: 1.6vw;
+		font-size: 1.6svw;
 	}
 }
 @media (max-aspect-ratio: 1.6) and (min-aspect-ratio: 1.5) {
 	.maincont p {
-		font-size: 1.4vw;
+		font-size: 1.4svw;
 	}
 }
 
 @media (max-aspect-ratio: 1.5) and (min-aspect-ratio: 1.4) {
 	.maincont p {
-		font-size: 1.5vw;
+		font-size: 1.5svw;
 	}
 }
 @media (max-aspect-ratio: 1.4) and (min-aspect-ratio: 1.3) {
 	.maincont p {
-		font-size: 1.6vw;
+		font-size: 1.6svw;
 	}
 }
 @media (max-aspect-ratio: 1.3) and (min-aspect-ratio: 1.2) {
 	.maincont p {
-		font-size: 1.7vw;
+		font-size: 1.7svw;
 	}
 }
 @media (max-aspect-ratio: 1.2) and (min-aspect-ratio: 1.1) {
 	.maincont p {
-		font-size: 1.8vw;
+		font-size: 1.8svw;
 	}
 }
 @media (max-aspect-ratio: 1.1) and (min-aspect-ratio: 1) {
 	.maincont p {
-		font-size: 1.9vw;
+		font-size: 1.9svw;
 	}
 }
 @media (max-aspect-ratio: 1) and (min-aspect-ratio: 0.9) {
 	.maincont p {
-		font-size: 1.85vh;
+		font-size: 1.85svh;
 	}
 }
 @media (max-aspect-ratio: 0.9) {
@@ -61,49 +61,49 @@
 }
 @media (max-aspect-ratio: 0.9) and (min-aspect-ratio: 0.65) {
 	.links h1 {
-		font-size: 2.2vh;
+		font-size: 2.2svh;
 	}
 	.maincont p {
-		font-size: 1.65vh;
+		font-size: 1.65svh;
 	}
 }
 @media (max-aspect-ratio: 0.65) and (min-aspect-ratio: 0.5) {
 	.links h1 {
-		font-size: 2vh;
+		font-size: 2svh;
 	}
 	.maincont p {
-		font-size: 1.2vh;
+		font-size: 1.2svh;
 	}
 }
 @media (max-aspect-ratio: 0.5) and (min-aspect-ratio: 0.45) {
 	.links h1 {
-		font-size: 2vh;
+		font-size: 2svh;
 	}
 	.maincont p {
-		font-size: 1.4vh;
+		font-size: 1.4svh;
 	}
 }
 @media (max-aspect-ratio: 0.4) and (min-aspect-ratio: 0.35) {
 	.links h1 {
-		font-size: 1.5vh;
+		font-size: 1.5svh;
 	}
 	.maincont p {
-		font-size: 1.3vh;
+		font-size: 1.3svh;
 	}
 }
 @media (max-aspect-ratio: 0.35) and (min-aspect-ratio: 0.3) {
 	.links h1 {
-		font-size: 1.5vh;
+		font-size: 1.5svh;
 	}
 	.maincont p {
-		font-size: 1.2vh;
+		font-size: 1.2svh;
 	}
 }
 @media (max-aspect-ratio: 0.3) {
 	.links h1 {
-		font-size: 1.4vh;
+		font-size: 1.4svh;
 	}
 	.maincont p {
-		font-size: 1vh;
+		font-size: 1svh;
 	}
 }
